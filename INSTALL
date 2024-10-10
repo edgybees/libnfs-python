@@ -10,3 +10,8 @@ cd  libnfs
 make
 cd ..
 sudo python3 setup.py install
+
+Build Package
+-----------
+pip wheel . -w wheels
+

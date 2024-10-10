@@ -1,0 +1,11 @@
+COPYING
+MANIFEST.in
+README
+setup.py
+libnfs/__init__.py
+libnfs/libnfs.i
+libnfs/libnfs.py
+libnfs.egg-info/PKG-INFO
+libnfs.egg-info/SOURCES.txt
+libnfs.egg-info/dependency_links.txt
+libnfs.egg-info/top_level.txt

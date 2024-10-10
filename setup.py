@@ -32,8 +32,8 @@ class Build(build):
         build.run(self)
 cmdclass['build'] = Build
 
-name = 'libnfs'
-version = '1.0'
+name = 'edgybees_libnfs'
+version = '1.0.1'
 release = '4'
 versrel = version + '-' + release
 readme = 'README'

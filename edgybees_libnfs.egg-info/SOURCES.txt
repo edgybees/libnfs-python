@@ -1,0 +1,11 @@
+COPYING
+MANIFEST.in
+README
+setup.py
+edgybees_libnfs.egg-info/PKG-INFO
+edgybees_libnfs.egg-info/SOURCES.txt
+edgybees_libnfs.egg-info/dependency_links.txt
+edgybees_libnfs.egg-info/top_level.txt
+libnfs/__init__.py
+libnfs/libnfs.i
+libnfs/libnfs.py
