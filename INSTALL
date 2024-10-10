@@ -15,3 +15,6 @@ Build Package
 -----------
 pip wheel . -w wheels
 
+with tgz
+
+python -m build
